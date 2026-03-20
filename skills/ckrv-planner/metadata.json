@@ -1,0 +1,8 @@
+{
+  "name": "ckrv-planner",
+  "version": "0.1.0",
+  "description": "Reads a spec and codebase, breaks work into tasks, assigns dependencies and execution batches.",
+  "author": "FnSK4R17s",
+  "license": "MIT",
+  "role": "planner"
+}

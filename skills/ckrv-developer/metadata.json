@@ -1,0 +1,8 @@
+{
+  "name": "ckrv-developer",
+  "version": "0.1.0",
+  "description": "Implements assigned tasks in an isolated git worktree. Writes code and tests.",
+  "author": "FnSK4R17s",
+  "license": "MIT",
+  "role": "developer"
+}

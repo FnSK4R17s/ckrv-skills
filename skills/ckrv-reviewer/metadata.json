@@ -1,0 +1,8 @@
+{
+  "name": "ckrv-reviewer",
+  "version": "0.1.0",
+  "description": "Reviews diffs against the spec. Catches bugs, style violations, and architectural drift.",
+  "author": "FnSK4R17s",
+  "license": "MIT",
+  "role": "reviewer"
+}

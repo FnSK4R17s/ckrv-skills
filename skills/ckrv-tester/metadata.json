@@ -1,0 +1,8 @@
+{
+  "name": "ckrv-tester",
+  "version": "0.1.0",
+  "description": "Runs existing tests. Writes new tests for generated code. Reports coverage.",
+  "author": "FnSK4R17s",
+  "license": "MIT",
+  "role": "tester"
+}

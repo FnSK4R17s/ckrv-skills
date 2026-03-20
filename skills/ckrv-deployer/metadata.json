@@ -1,0 +1,8 @@
+{
+  "name": "ckrv-deployer",
+  "version": "0.1.0",
+  "description": "Deploys to platforms like Vercel and Cloudflare. Runs CI/CD checks. Verifies the build.",
+  "author": "FnSK4R17s",
+  "license": "MIT",
+  "role": "deployer"
+}
