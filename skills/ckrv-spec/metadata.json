@@ -1,0 +1,8 @@
+{
+  "name": "ckrv-spec",
+  "version": "0.1.0",
+  "description": "Generates, clarifies, and validates feature specifications from natural language descriptions.",
+  "author": "FnSK4R17s",
+  "license": "MIT",
+  "role": "spec"
+}

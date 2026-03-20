@@ -6,6 +6,7 @@ Agent skills for [chakravarti-cli](https://github.com/FnSK4R17s/chakravarti-cli)
 
 | Skill | Role | Description |
 |-------|------|-------------|
+| `ckrv-spec` | Spec | Generates, clarifies, and validates feature specifications from natural language descriptions |
 | `ckrv-planner` | Planner | Reads a spec and codebase, breaks work into tasks, assigns dependencies and execution batches |
 | `ckrv-developer` | Developer | Implements assigned tasks in an isolated git worktree. Writes code and tests |
 | `ckrv-reviewer` | Reviewer | Reviews diffs against the spec. Catches bugs, style violations, and architectural drift |
